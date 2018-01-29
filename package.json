@@ -1,6 +1,6 @@
 {
   "name": "regl-shader-error-overlay",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": " silly monkeypatched dev tool to render shader errors logged and formated by regl as overlays ",
   "main": "overlay.js",
   "scripts": {
